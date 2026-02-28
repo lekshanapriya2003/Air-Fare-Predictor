@@ -90,12 +90,6 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
-API available at:
-[http://localhost:8000](http://localhost:8000)
-Docs: [http://localhost:8000/docs](http://localhost:8000/docs)
-
----
-
 ### Docker Deployment
 
 ```bash
